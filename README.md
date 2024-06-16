@@ -20,5 +20,9 @@ Run example pointcloud cropping, RANSAC, filtering, and visualizing
 python 1_example_pipeline.py
 ```
 
+Example output screenshot I took:
+
+![example](media/office.png)
+
 References:
 * Creating point cloud and distill semantic features from video or images: [Gaussian Feature Splacking](https://github.com/zt-yang/gaussian-feature-splacking) (private repo, message Yang your github handle for access)
